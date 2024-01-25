@@ -7,4 +7,4 @@ One other student and I were entrusted with performing the data preprocessing an
 
 We began by cleaning the data - pruning the news and stock datasets to the important columns and merging the datasets together. We then visualized the data in a variety of ways and created neural networks to try and capture the relationship (if one existed) between news sentiment and stock price, then reported the results of our analysis.
 
-Finally, another group of students condensed our findings into a report.s
+Finally, another group of students condensed our findings into a report.
